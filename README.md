@@ -2,13 +2,13 @@
 
 
 
-\*\*Name:\*\* Rohith Karning  
+Name: Rohith Karning  
 
-\*\*SRN:\*\* PES1UG24AM229  
+SRN: PES1UG24AM229  
 
-\*\*Lab:\*\* Lab 1  
+Lab: Lab 1  
 
-\*\*Problem Statement:\*\* #39 – Second-Hand Product Escrow Marketplace
+Problem Statement: #39 – Second-Hand Product Escrow Marketplace
 
 
 
